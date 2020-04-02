@@ -64,7 +64,7 @@ export default {
     }
   }
 }
-</script>v
+</script>
 
 <style scoped lang="less">
 .login_container{
