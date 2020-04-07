@@ -14,3 +14,9 @@ html,#app,body{
     margin-top: 15px;
     font-size: 12px;
 }
+.zk-table{
+    margin-top: 10px;
+}
+.el-cascader {
+    width: 100%;
+}
