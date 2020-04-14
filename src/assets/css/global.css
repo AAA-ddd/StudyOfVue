@@ -23,3 +23,18 @@ html,#app,body{
 .el-tag {
     margin-right: 10px;
 }
+.el-pagination {
+    margin-top: 20px;
+}
+.el-steps {
+    margin: 15px 0;
+}
+.el-step__title {
+    font-size: 14px;
+}
+.el-checkbox {
+    margin: 0 10px 0 0!important;
+}
+.ql-editor{
+    min-height: 300px;
+}
